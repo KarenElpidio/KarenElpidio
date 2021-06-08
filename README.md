@@ -6,20 +6,21 @@
 🌱 Actualmente estoy aprendiendo Node Js, Express. 
 💬 Ademas tengo conociemintos sobre cualquier tema relacionado con
 
-## JavaScript
-## NodeJs
- ## Express
-     ## HTML
-     ## CSS
-     ## React
-     ## Rest
-     ## MVC
-     ## Git
-     ## GitHub
-     ## Bootstrap
-     ## Wordpress
-     ## Python
-     ## Metodologías ágiles SCRUM
+### JavaScript
+### NodeJs
+### Express
+### HTML
+### CSS
+### React
+### Rest
+### MVC
+### Git
+### GitHub
+### Bootstrap
+### Wordpress
+### Python
+### Metodologías ágiles SCRUM
+
 📫 Cómo comunicarse conmigo: elpidiokaren5@gmail.com.
 ⚡ Dato curioso: yo ❤️ 🐱
 
