@@ -5,9 +5,10 @@
 👩🏾‍💻 Soy estudiante de la carrera de Ingeniería en informática en la Universidad Nacional de Avellaneda. 
 🌱 Actualmente estoy aprendiendo Node Js, Express. 
 💬 Ademas tengo conociemintos sobre cualquier tema relacionado con
-     ## JavaScript
-     ## NodeJs
-     ## Express
+
+## JavaScript
+## NodeJs
+ ## Express
      ## HTML
      ## CSS
      ## React
