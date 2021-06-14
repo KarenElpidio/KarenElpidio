@@ -1,6 +1,6 @@
 ![Sin-tít](https://user-images.githubusercontent.com/53590903/121283465-8caf5700-c8b1-11eb-8f49-2f17bf8a0863.png)
 
--  Este es el lugar donde abro cosas de código y rompo cosas 🤣 
+-  Este es el lugar donde abro código y rompo cosas 🤣 
 
 👩🏾‍💻 Soy estudiante de la carrera de Ingeniería en informática en la Universidad Nacional de Avellaneda. 
 
