@@ -4,7 +4,7 @@
 
 👩🏾‍💻 Soy estudiante de la carrera de Ingeniería en informática en la Universidad Nacional de Avellaneda. 
 
-🌱 Actualmente estoy aprendiendo Node Js, Express. 
+🌱 Actualmente estoy aprendiendo Go / Angular. 
 
 💬 Ademas tengo conociemintos sobre 
 
