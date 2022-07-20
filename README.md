@@ -14,5 +14,4 @@ _JavaScript_ ||  _HTML_ || _CSS_ || _Rest_ || _MVC_ || _Git_ || _GitHub_ || _Boo
 
 ⚡ Dato curioso: yo ❤️ 🐱 
           
-          «Si tu solo supieras la magnificencia del 3, 6 y 9, entonces tienes la llave del universo». Nikola Tesla
-  
+          «                                                                                                »
