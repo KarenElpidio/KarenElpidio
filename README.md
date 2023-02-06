@@ -2,7 +2,7 @@
 
 -  Este es el lugar donde abro código y rompo cosas 🤣 
 
-👩🏾‍💻 Soy estudiante de la carrera de Ingeniería en informática en la Universidad Nacional de Avellaneda. 
+👩🏾‍💻 Soy estudiante de la carrera Licenciatura en Sistemas
 
 🌱 Actualmente estoy aprendiendo Go / Angular. 
 
